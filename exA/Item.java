@@ -3,6 +3,8 @@
  * 
  */
 
+package exA;
+
 class Item<E extends Number & Comparable<E>> {
 	private E item;
 
